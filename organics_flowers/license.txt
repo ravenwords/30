@@ -1,0 +1,11 @@
+Model Information:
+* title:	Organics: Flowers
+* source:	https://sketchfab.com/3d-models/organics-flowers-226a7d3f00ab49f483d5712abd59edcc
+* author:	ZoeChuiYan (https://sketchfab.com/zoelofutureworks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Organics: Flowers" (https://sketchfab.com/3d-models/organics-flowers-226a7d3f00ab49f483d5712abd59edcc) by ZoeChuiYan (https://sketchfab.com/zoelofutureworks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
